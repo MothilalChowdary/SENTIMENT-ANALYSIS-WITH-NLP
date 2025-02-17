@@ -52,10 +52,16 @@ Once trained and evaluated, the model is tested on new, unseen reviews. These re
 This demonstrates how the model can automatically classify real-world reviews.
 
 **Key Insights and Findings**
+
 **Preprocessing Impact:** Text cleaning and stopword removal improve model performance by eliminating irrelevant words.
+
 **TF-IDF:** TF-IDF effectively captures important words for sentiment classification while filtering out common, uninformative ones.
+
 **Logistic Regression:** A simple yet effective model that provides strong results for binary classification.
+
 **Model Evaluation:** Multiple metrics like accuracy, precision, recall, and confusion matrix provide a more comprehensive evaluation of the model's performance.
+
 **Practical Applications:** The model can be used in various domains like customer feedback analysis, social media monitoring, and content moderation.
+
 **Conclusion**
     This sentiment analysis project successfully classifies IMDB movie reviews using Logistic Regression. By following a structured process—data preprocessing, feature extraction, model training, and evaluation—the model achieves high accuracy and can generalize well to new reviews. 
