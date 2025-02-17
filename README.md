@@ -65,3 +65,7 @@ This demonstrates how the model can automatically classify real-world reviews.
 
 **Conclusion :**
     This sentiment analysis project successfully classifies IMDB movie reviews using Logistic Regression. By following a structured process—data preprocessing, feature extraction, model training, and evaluation—the model achieves high accuracy and can generalize well to new reviews. 
+
+# Output
+![Image](https://github.com/user-attachments/assets/e192cf81-ca42-47db-bcac-d400acbf2d1e)
+![Image](https://github.com/user-attachments/assets/d835b5c1-ff30-455e-9bd1-d576ab901b76)
