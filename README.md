@@ -1,12 +1,4 @@
 # SENTIMENT-ANALYSIS-WITH-NLP
-**COMPANY**        : CODTECH IT SOLUTIONS
-**NAME**           : EDAMALAPATI MOTHILAL CHOWDARY
-**INTERN ID**      : CT12JJP
-**DOMAIN**         : MACHINE LEARNING
-**BATCH DURATION** : January 5th,2025 to March 5th,2025
-**MENTOR NAME**    : NEELA SANTHOSH
-
-# DESCRIPTION OF TASK :
 **Sentiment Analysis on IMDB Dataset Using Logistic Regression**
     This project focuses on performing sentiment analysis on the IMDB dataset, which contains movie reviews labeled as either "positive" or "negative." The goal is to develop a machine learning model that can classify new reviews based on their sentiment. The method used for classification is Logistic Regression, a popular algorithm for binary classification tasks.
 
